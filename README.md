@@ -1,4 +1,4 @@
-# Git-GitHub-5
+LOCALE
 "Hello"
 "Hello world"
 "Hello you"
